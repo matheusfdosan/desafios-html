@@ -19,7 +19,5 @@ Essa é uma série de desafios básicos para que você possa praticar seus conhe
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML5
 - Git & Github
-- [Figma](https://figma.com/)
-
