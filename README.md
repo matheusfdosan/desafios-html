@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img alt="preview" src="./.gihub/preview.png" width="100%">
+  <img alt="preview" src="./.github/preview.png" width="100%">
 </p>
 
 ## 💻 Projeto
