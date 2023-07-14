@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img alt="preview" src="https://app.rocketseat.com.br/_next/image?url=%2Fassets%2Fimages%2Fdiscover%2Fchallenges%2Fhtml-challenge.png&w=384&q=75" width="100%">
+  <img alt="preview" src="./.gihub/preview.png" width="100%">
 </p>
 
 ## 💻 Projeto
